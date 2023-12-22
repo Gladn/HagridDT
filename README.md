@@ -1,4 +1,4 @@
-# Colaboratory_new
+# Распозднование рук с использованием Mediapipe
 
 mediapipe rock - реализация обнаружения козы
 
